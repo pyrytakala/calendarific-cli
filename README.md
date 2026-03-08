@@ -5,7 +5,7 @@ CLI for the Calendarific Holiday API. Made with [api2cli.dev](https://api2cli.de
 ## Install
 
 ```bash
-npx api2cli install <user>/calendarific-cli
+npx api2cli install pyrytakala/calendarific-cli
 ```
 
 ## Usage
